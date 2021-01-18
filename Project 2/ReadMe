@@ -1,0 +1,2 @@
+In this we project we implemented an application called “myAppStore” with data on applications under various categories. 
+The data was stored simultaneously in both a hash table to support fast look-up of an application, and in a search tree to support certain queries.
