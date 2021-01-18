@@ -1,0 +1,118 @@
+24
+Books
+Business
+Catalogs
+Education
+Entertainment
+Finance
+Food & Drink
+Games
+Health & Fitness
+Kids
+Lifestyle
+Magazines & Newspapers
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference
+Social Networking
+Sports
+Travel
+Utilities
+Weather
+13
+Books
+Sherlock: Interative Adventure
+1.6
+1.06
+GB
+2.99
+Business
+iTunes Connect
+3.1
+5.2
+MB
+0.00
+Business
+Facebook Pages Manager
+32.0
+99.8
+MB
+0.00
+Catalogs
+Jo-Ann
+3.09
+6.2
+MB
+0.00
+Education
+iTunes U
+3.0.1
+34.2
+MB
+0.00
+Education
+PhotoMath
+1.3.1
+42.9
+MB
+0.00
+Education
+Google Classroom
+1.6.2
+45.3
+MB
+0.00
+Entertainment
+Colorfy
+1.6
+60.7
+MB
+0.00
+Entertainment
+HBO NOW
+1.3.0
+18.4
+MB
+0.00
+Finance
+Bank of America
+6.4.0
+52.9
+MB
+0.00
+Finance
+Chase Mobile
+2.461
+20.9
+MB
+0.00
+Finance
+PayPal
+5.12.2
+44.4
+MB
+0.00
+Food & Drink
+Mixologist
+5.0.2
+22
+MB
+0.99
+11
+find app Accuweather
+find app PhotoMath
+find app Photomath
+find app Chrome
+find app Spruce
+find app FanDuel: One Day Fantasy Sports Leagues
+find app WatchMTV
+find app Chase Mobile
+find app Dropbox
+find app Sleep Cycle Alarm Clock
+find app Guitar Hero
+report
+

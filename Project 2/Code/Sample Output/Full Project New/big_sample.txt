@@ -1,0 +1,291 @@
+Found Application: Paprika Recipe Manager
+	Category: Food & Drink
+	Application Name: Paprika Recipe Manager
+	Version: 2.1.6
+	Size: 7.1
+	Units: MB
+	Price: $4.99
+
+Found Application: WatchESPN
+	Category: Sports
+	Application Name: WatchESPN
+	Version: 1.9.2
+	Size: 16.9
+	Units: MB
+	Price: $0.00
+
+Found Application: YouTube Kids
+	Category: Kids
+	Application Name: YouTube Kids
+	Version: 1.28.103
+	Size: 61.0
+	Units: MB
+	Price: $0.00
+
+Found Application: AccuWeather
+	Category: Weather
+	Application Name: AccuWeather
+	Version: 8.5.4
+	Size: 60.3
+	Units: MB
+	Price: $0.00
+
+Found Application: Weather Live
+	Category: Weather
+	Application Name: Weather Live
+	Version: 4.6
+	Size: 79.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Facebook
+	Category: Social Networking
+	Application Name: Facebook
+	Version: 40.0
+	Size: 96.9
+	Units: MB
+	Price: $0.00
+
+Category: Lifestyle
+	Monogram it!
+	Project Color by The Home Depot
+	Stylebook
+	Tinder
+	What's On?
+	Wish - Shopping Made Fun
+	eBay
+
+Category: Magazines & Newspapers
+	Cosmopolitan Magazine US
+	Forbes Magazine
+	NYTimes
+	National Geographic Magazine
+	Shopkins Magazine
+	The Wall Street Journal
+
+Category: Games
+	1010!
+	Balloons TD 5
+	Billionaire.
+	Bowling King
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+	Geometry Dash
+	Heads Up!
+	Minecraft: Pocket Edition
+	Need for Speed
+	PewDiePie
+	Plague Inc.
+	Psych!
+	Scribblenauts Remix
+	Smashy Road: Wanted
+	Sonic Dash 2
+	The Walking Dead: No Man's Land
+	VIP Pool Party
+	hocus.
+
+Category: Productivity
+	Dropbox
+	Fantastical 2 for iPhone
+	Gmail - email from Google
+	Google Docs
+	Google Drive
+	Microsoft Outlook
+	Printer Pro
+	Purify Blocker
+	Snap Upload for snapchat
+	Yahoo Mail
+	iDownloads PLUS FREE
+
+Free Applications in Category: Books
+	No free applications found.
+
+Free Applications in Category: Business
+	Adobe Acrobat Reader
+	Facebook Pages Manager
+	Indeed Job Search
+	Snagajob
+	Square Register
+	iTunes Connect
+
+Free Applications in Category: Catalogs
+	Hair Color Dye
+	Jo-Ann
+	Photo Plastic
+
+Free Applications in Category: Education
+	ClassDojo
+	Google Classroom
+	PhotoMath
+	iTunes U
+
+Free Applications in Category: Entertainment
+	Colorfy
+	Dubsmash
+	Dude, your car!
+	HBO NOW
+	Hulu
+	Netflix
+	Vine
+
+Free Applications in Category: Finance
+	Bank of America
+	Chase Mobile
+	PayPal
+
+Free Applications in Category: Food & Drink
+	7-Eleven, Inc.
+	Domino's Pizza USA
+	Dunkin' Donuts
+	GrubHub
+	McDonald's
+	Pizza Hut
+	Starbucks
+
+Free Applications in Category: Games
+	1010!
+	Billionaire.
+	Bowling King
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Need for Speed
+	Psych!
+	Smashy Road: Wanted
+	Sonic Dash 2
+	The Walking Dead: No Man's Land
+	VIP Pool Party
+
+Free Applications in Category: Health & Fitness
+	Fitbit
+	Nike+ Running
+	Zombies, Run!
+
+Free Applications in Category: Kids
+	Mad Libs
+	PBS KIDS Video
+	Sky Whale
+	YouTube Kids
+
+Free Applications in Category: Lifestyle
+	Project Color by The Home Depot
+	Tinder
+	Wish - Shopping Made Fun
+	eBay
+
+Free Applications in Category: Magazines & Newspapers
+	No free applications found.
+
+Free Applications in Category: Medical
+	GoodRx
+	MyChart
+	Touch Surgery, Surgical Simulator
+
+Free Applications in Category: Music
+	Pandora - Free Music & Radio
+	Shazam - Discover music, artists, videos & lyrics
+	Sing! Karaoke by Smule
+	SoundCloud - Music & Audio
+	Spotify Music
+
+Free Applications in Category: Navigation
+	Google Maps
+	MapQuest: Free Navigation, GPC, Maps & Traffic
+	Phone Tracker for iPhones
+	Scout GPS Navigation, ETA, Maps & Traffic
+	Transit Directions by Moovit
+
+Free Applications in Category: News
+	BuzzFeed
+	CNN App for iPhone
+	Fox News
+	Medium
+	Overcast: Podcast Player
+	Police Scanner+ Free
+
+Free Applications in Category: Photo & Video
+	Instagram
+	Snapchat
+	YouTube
+
+Free Applications in Category: Productivity
+	Dropbox
+	Gmail - email from Google
+	Google Docs
+	Google Drive
+	Microsoft Outlook
+	Snap Upload for snapchat
+	Yahoo Mail
+	iDownloads PLUS FREE
+
+Free Applications in Category: Reference
+	Follow Boss
+	Google Translate
+
+Free Applications in Category: Social Networking
+	Facebook
+	Messenger
+	Pinterest
+	Twitter
+	WhatsApp Messenger
+
+Free Applications in Category: Sports
+	BTN2Go
+	DailyMVP: Daily Fantasy Sports
+	ESPN
+	FOX Sports GO
+	FanDuel: One Day Fantasy Sports Leagues
+	MLB.com At Bat
+	Univision Deportes
+	WatchESPN
+
+Free Applications in Category: Travel
+	Uber
+	Yelp
+
+Free Applications in Category: Utilities
+	Chrome
+	Flashlight
+	GIF Keyboard
+	Google
+	My Verizon Mobile
+	QR Reader for iPhone
+	Wake Alarm Clock
+	myAT&T
+
+Free Applications in Category: Weather
+	AccuWeather
+	The Weather Channel
+
+Applications in Price Range ($4.99,$19.99) in Category: News
+	Reeder 2
+
+Applications in Price Range ($19.99,$49.99) in Category: News
+	No applications found in News for the given price range ($19.99,$49.99)
+
+Applications in Range (Wa,Wz) in Category: Reference
+	WolframAlpha
+
+Applications in Range (B,Dz) in Category: Magazines & Newspapers
+	Cosmopolitan Magazine US
+
+Applications in Range (A,Gz) in Category: Reference
+	Follow Boss
+	Google Translate
+
+Found Application: Rainbow Loom Pro
+	Category: Catalogs
+	Application Name: Rainbow Loom Pro
+	Version: 2.0
+	Size: 49.3
+	Units: MB
+	Price: $0.99
+
+Found Application: TED Books
+	Category: Books
+	Application Name: TED Books
+	Version: 1.15
+	Size: 7.6
+	Units: MB
+	Price: $14.99
+

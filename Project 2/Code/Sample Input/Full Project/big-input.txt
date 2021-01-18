@@ -1,0 +1,1346 @@
+24
+Books
+Business
+Catalogs
+Education
+Entertainment
+Finance
+Food & Drink
+Games
+Health & Fitness
+Kids
+Lifestyle
+Magazines & Newspapers
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference
+Social Networking
+Sports
+Travel
+Utilities
+Weather
+217
+Books
+Stride & Prejudice
+1.0.2
+47.2
+MB
+1.99
+Books
+Weird But True
+2.2.2
+62.5
+MB
+0.99
+Books
+TED Books
+1.15
+7.6
+MB
+14.99
+Books
+Al Gore -- Our Choice: A Plan to Solve the Climate Crisis
+1.0.4
+55
+MB
+4.99
+Books
+Sherlock: Interative Adventure
+1.6
+1.06
+GB
+2.99
+Books
+Jubitron the Girl Robot
+2.08
+110
+MB
+1.99
+Books
+Poems by Heart
+2.0
+38.1
+MB
+0.99
+Books
+DC Comics: Batman #1
+3.7.4
+58.6
+MB
+0.99
+Business
+HotSchedules
+4.13.0
+15.5
+MB
+1.99
+Business
+Scanner Pro by Readdle
+6.1.2
+74.2
+MB
+2.99
+Business
+Tiny Scanner Pro
+4.1
+41.9
+MB
+4.99
+Business
+TapeACallPro
+3.3.2
+22.3
+MB
+9.99
+Business
+doTERRA
+1.5
+13.5
+MB
+4.99
+Business
+Indeed Job Search
+3.3
+2.5
+MB
+0.00
+Business
+Adobe Acrobat Reader
+15.1.00
+37.6
+MB
+0.00
+Business
+Square Register
+4.26
+95.4
+MB
+0.00
+Business
+Snagajob
+4.1.0
+86.1
+MB
+0.00
+Business
+iTunes Connect
+3.1
+5.2
+MB
+0.00
+Business
+Facebook Pages Manager
+32.0
+99.8
+MB
+0.00
+Catalogs
+YL Oils & Young Living Oils
+1.2
+37
+MB
+1.99
+Catalogs
+Emoji 3 PRO
+2.5
+16.9
+MB
+0.99
+Catalogs
+Rainbow Loom Pro
+2.0
+49.3
+MB
+0.99
+Catalogs
+Tattoo Fonts
+2.3
+23
+MB
+2.99
+Catalogs
+Photo Plastic
+2.0
+73.9
+MB
+0.00
+Catalogs
+Hair Color Dye
+1.3
+23.6
+MB
+0.00
+Catalogs
+Jo-Ann
+3.09
+6.2
+MB
+0.00
+Education
+Sago Mini Babies
+1.0
+62.3
+MB
+2.99
+Education
+Toca Hair Salon 2
+1.1.3
+46
+MB
+2.99
+Education
+Star Walk 2
+2.0.1
+149
+MB
+2.99
+Education
+Toca Kitchen 2
+1.2
+65.7
+MB
+2.99
+Education
+Stack the States
+2.5
+46.9
+MB
+1.99
+Education
+iTunes U
+3.0.1
+34.2
+MB
+0.00
+Education
+PhotoMath
+1.3.1
+42.9
+MB
+0.00
+Education
+Google Classroom
+1.6.2
+45.3
+MB
+0.00
+Education
+ClassDojo
+3.6.1
+49.1
+MB
+0.00
+Entertainment
+Akinator the Genie
+3.6
+83.9
+MB
+1.99
+Entertainment
+xTube
+1.2
+7
+MB
+2.99
+Entertainment
+Pocket God
+1.48.2
+71.9
+MB
+0.99
+Entertainment
+Dude, your car!
+2.4
+28.1
+MB
+0.00
+Entertainment
+EWallpaper
+1.0
+9.8
+MB
+2.99
+Entertainment
+Abby Lee Dance Secrets
+1.1
+47
+MB
+4.99
+Entertainment
+ThemeLocks
+1.5
+72.7
+MB
+1.99
+Entertainment
+Netflix
+7.2.0
+29.1
+MB
+0.00
+Entertainment
+Hulu
+4.6.2
+23.1
+MB
+0.00
+Entertainment
+Dubsmash
+1.3.4
+29.7
+MB
+0.00
+Entertainment
+Vine
+4.1.1
+42.3
+MB
+0.00
+Entertainment
+Colorfy
+1.6
+60.7
+MB
+0.00
+Entertainment
+HBO NOW
+1.3.0
+18.4
+MB
+0.00
+Finance
+HomeBudget with Sync
+3.1.9
+8.2
+MB
+4.99
+Finance
+Dataman Next
+9.0
+724
+KB
+1.99
+Finance
+BillMinder
+3.7.6
+4.3
+MB
+1.99
+Finance
+Tollsmart
+1.6.1
+5.5
+MB
+2.99
+Finance
+Bank of America
+6.4.0
+52.9
+MB
+0.00
+Finance
+Chase Mobile
+2.461
+20.9
+MB
+0.00
+Finance
+PayPal
+5.12.2
+44.4
+MB
+0.00
+Food & Drink
+Fit Men Cook
+1.3
+81.8
+MB
+2.99
+Food & Drink
+Forks Over Knives
+1.12
+83.7
+MB
+4.99
+Food & Drink
+Paprika Recipe Manager
+2.1.6
+7.1
+MB
+4.99
+Food & Drink
+MealBoard
+3.2.1
+7.8
+MB
+3.99
+Food & Drink
+Mixologist
+5.0.2
+22
+MB
+099
+Food & Drink
+Starbucks
+3.3.1
+39.8
+MB
+0.00
+Food & Drink
+7-Eleven, Inc.
+2.2.1
+26.1
+MB
+0.00
+Food & Drink
+McDonald's
+4.5.1
+23.9
+MB
+0.00
+Food & Drink
+Domino's Pizza USA
+3.0.0
+46.3
+MB
+0.00
+Food & Drink
+Dunkin' Donuts
+3.7
+40.9
+MB
+0.00
+Food & Drink
+GrubHub
+2.99.5
+59.5
+MB
+0.00
+Food & Drink
+Pizza Hut
+3.1.8
+20.4
+MB
+0.00
+Games
+Minecraft: Pocket Edition
+0.12.1
+24.1 
+MB
+6.99
+Games
+FIFA 16 Ultimate Team
+2.0
+1.25 
+GB
+0.00
+Games
+Candy Crush Soda Saga
+1.50.8
+61.3 
+MB
+0.00
+Games
+Game of Life Classic Edition
+1.2.21
+15.3 
+MB
+0.99
+Games
+Heads Up!
+2.7
+98.2
+MB
+0.99
+Games
+Geometry Dash
+2.01
+56.9
+MB
+1.99
+Games
+Plague Inc.
+1.10.3
+63
+MB
+0.99
+Games
+PewDiePie
+1.0.0
+84.4
+MB
+4.99
+Games
+Scribblenauts Remix
+5.4
+181
+MB
+0.99
+Games
+Balloons TD 5
+2.17.2
+91.6
+MB
+2.99
+Games
+hocus.
+1.1.0
+23.1
+MB
+0.99
+Games
+Smashy Road: Wanted
+1.1.4
+65
+MB
+0.00
+Games
+The Walking Dead: No Man's Land
+1.1.1
+263
+MB
+0.00
+Games
+Sonic Dash 2
+1.0.1
+93.6
+MB
+0.00
+Games
+1010!
+9
+42.8
+MB
+0.00
+Games
+Need for Speed
+1.0.49
+808
+MB
+0.00
+Games
+Billionaire.
+1.3.1
+36.7
+MB
+0.00
+Games
+Bowling King
+1.20.2
+88.9
+MB
+0.00
+Games
+VIP Pool Party
+1.0
+68.1
+MB
+0.00
+Games
+Psych!
+1.1
+42.7
+MB
+0.00
+Health & Fitness
+PAUSE
+1.1
+54.4
+MB
+1.99
+Health & Fitness
+7 Minute Workout Challenge
+1.5
+79.4
+MB
+2.99
+Health & Fitness
+Sleep Cycle alarm clock
+4.8.1
+41.6
+MB
+0.99
+Health & Fitness
+Fitness Buddy
+4.1.0
+58.6
+MB
+1.99
+Health & Fitness
+The Wonder Weeks
+4.3.2
+9.5
+MB
+1.99
+Health & Fitness
+Full Fitness
+2.2
+28.8
+MB
+2.99
+Health & Fitness
+Sleep Pillow Sounds
+6.5
+300
+MB
+1.99
+Health & Fitness
+Fitbit
+2.14.1
+27
+MB
+0.00
+Health & Fitness
+Zombies, Run!
+4.1.7
+278
+MB
+0.00
+Health & Fitness
+Nike+ Running
+4.8.3
+77.3
+MB
+0.00
+Kids
+Toca Life: City
+1.1
+90.3
+MB
+2.99
+Kids
+PAW Patrol Rescue Run
+2.3.2
+209
+MB
+3.99
+Kids
+Elmo Calls
+3.4
+78.1
+MB
+1.99
+Kids
+Sky Whale
+1.1
+91.8
+MB
+0.00
+Kids
+YouTube Kids
+1.28.103
+61
+MB
+0.00
+Kids
+Mad Libs
+3.1
+76.5
+MB
+0.00
+Kids
+PBS KIDS Video
+2.2.0
+11
+MB
+0.00
+Lifestyle
+Stylebook
+6.1
+13.9
+MB
+3.99
+Lifestyle
+What's On?
+1.0
+5.2
+MB
+0.99
+Lifestyle
+Monogram it!
+11.0
+17.3
+MB
+0.99
+Lifestyle
+Wish - Shopping Made Fun
+3.11.0
+33.4
+MB
+0.00
+Lifestyle
+Tinder
+4.6.1
+26.6
+MB
+0.00
+Lifestyle
+Project Color by The Home Depot
+1.1.34
+16.6
+MB
+0.00
+Lifestyle
+eBay
+4.1.0
+63.8
+MB
+0.00
+Magazines & Newspapers
+The Wall Street Journal
+7.1
+30.6
+MB
+22.99
+Magazines & Newspapers
+NYTimes
+5.3
+27.4
+MB
+34.99
+Magazines & Newspapers
+Shopkins Magazine
+4.9.81
+8.3
+MB
+2.99
+Magazines & Newspapers
+National Geographic Magazine
+2.5.1
+14.3
+MB
+19.99
+Magazines & Newspapers
+Cosmopolitan Magazine US
+5.1.0
+14.8
+MB
+19.99
+Magazines & Newspapers
+Forbes Magazine
+5.13
+31.6
+MB
+29.99
+Medical
+Baby Heartbeats
+1.05
+54.2
+MB
+4.99
+Medical
+IntelliDrink PRO - Blood Alcohol Content Calculator
+2.1
+18
+MB
+2.99
+Medical
+Essential Anatomy 5
+5.0
+645
+MB
+24.99
+Medical
+Touch Surgery, Surgical Simulator
+4.7.0
+66.1
+MB
+0.00
+Medical
+Skeletal Anatomy 3D
+2.0.4
+137
+MB
+2.99
+Medical
+GoodRx
+4.3.4
+22.7
+MB
+0.00
+Medical
+MyChart
+4.1.3
+22.1
+MB
+0.00
+Music
+Ultimate Guitar Tabs
+2.3.7
+22.2
+MB
+2.99
+Music
+djay 2 for iPhone
+2.7.10
+54.5
+MB
+2.99
+Music
+Premium Music for Spotify
+1.4
+13.7
+MB
+2.99
+Music
+Hype Machine
+2.4.5
+6.1
+MB
+3.99
+Music
+Ocarina
+1.4.5
+5.5
+MB
+0.99
+Music
+Loopy HD
+1.4.20
+13.9
+MB
+3.99
+Music
+Pandora - Free Music & Radio
+6.4.1
+54
+MB
+0.00
+Music
+Spotify Music
+4.0.0
+85
+MB
+0.00
+Music
+SoundCloud - Music & Audio
+3.13.0
+29.8
+MB
+0.00
+Music
+Shazam - Discover music, artists, videos & lyrics
+9.0.1
+69
+MB
+0.00
+Music
+Sing! Karaoke by Smule
+4.3.5
+92
+MB
+0.00
+Navigation
+Geocaching
+6.2.5
+26.8
+MB
+9.99
+Navigation
+MotionX GPC
+23.0
+38.6
+MB
+1.99
+Navigation
+Boating USA
+8.3
+68.4
+MB
+9.99
+Navigation
+Where's my MBTA Bus?
+2.3
+17.8
+MB
+0.99
+Navigation
+iTrans NYC Subway
+8.0.1
+38.4
+MB
+3.99
+Navigation
+Plane Finder
+9.1.0
+25.2
+MB
+3.99
+Navigation
+Google Maps
+4.11.0
+34.2
+MB
+0.00
+Navigation
+MapQuest: Free Navigation, GPC, Maps & Traffic
+4.9
+28.9
+MB
+0.00
+Navigation
+Phone Tracker for iPhones
+3.4.7
+23.1
+MB
+0.00
+Navigation
+Scout GPS Navigation, ETA, Maps & Traffic
+3.2.1
+60.3
+MB
+0.00
+Navigation
+Transit Directions by Moovit
+4.4.1
+42.2
+MB
+0.00
+News
+Daily Craigslist Unlimited
+6.1.3.0
+22
+MB
+0.99
+News
+Pocket Casts
+5.0.1
+8.1
+MB
+3.99
+News
+iCatcher! Podcast Player
+2.7
+11.6
+MB
+2.99
+News
+Reeder 2
+2.6
+4.8
+MB
+4.99
+News
+CNN App for iPhone
+4.0.1
+42.7
+MB
+0.00
+News
+Fox News
+2.2.1
+62.6
+MB
+0.00
+News
+BuzzFeed
+4.17
+37.9
+MB
+0.00
+News
+Medium
+2.0.2508
+18.6
+MB
+0.00
+News
+Overcast: Podcast Player
+2.0
+4.6
+MB
+0.00
+News
+Police Scanner+ Free
+6.6
+64.3
+MB
+0.00
+Photo & Video
+Afterlight
+2.7.1
+71
+MB
+0.99
+Photo & Video
+Facetune
+2.5.4
+49.6
+MB
+3.99
+Photo & Video
+Color Splash
+3.4
+24.8
+MB
+0.99
+Photo & Video
+Superimpose
+4.8
+10
+MB
+0.99
+Photo & Video
+Snapchat
+9.16.1.0
+64.4
+MB
+0.00
+Photo & Video
+Instagram
+7.7.2
+22.2
+MB
+0.00
+Photo & Video
+YouTube
+10.38
+40.7
+MB
+0.00
+Productivity
+Purify Blocker
+1.1.1
+12.7
+MB
+0.99
+Productivity
+Fantastical 2 for iPhone
+2.5
+22.3
+MB
+4.99
+Productivity
+Printer Pro
+5.4.4
+63
+MB
+6.99
+Productivity
+Gmail - email from Google
+4.1
+17.7
+MB
+0.00
+Productivity
+Dropbox
+4.0.3
+61.7
+MB
+0.00
+Productivity
+Snap Upload for snapchat
+1.0.1
+15.5
+MB
+0.00
+Productivity
+iDownloads PLUS FREE
+1.7.3
+12.2
+MB
+0.00
+Productivity
+Yahoo Mail
+3.2.19
+70.6
+MB
+0.00
+Productivity
+Google Drive
+4.2
+77.2
+MB
+0.00
+Productivity
+Google Docs
+1.2015.38205
+77.4
+MB
+0.00
+Productivity
+Microsoft Outlook
+1.4.5
+51.3
+MB
+0.00
+Reference
+Sky Guide: View Stars Night or Day
+5.0.1
+102
+MB
+2.99
+Reference
+WolframAlpha
+1.6.2.2015011603
+15.1
+MB
+2.99
+Reference
+iHandy Translator Pro
+1.2.5
+23.5
+MB
+1.99
+Reference
+Google Translate
+4.1.0
+27.6
+MB
+0.00
+Reference
+Follow Boss
+1.0
+23.7
+MB
+0.00
+Social Networking
+Tweetbot 4 for Twitter
+4.0
+6.8
+MB
+4.99
+Social Networking
+Badoo Premium
+4.4.0
+64.8
+MB
+0.99
+Social Networking
+TeamSpeak 3
+3.1.10
+15.6
+MB
+4.99
+Social Networking
+Messenger
+38.0
+79.5
+MB
+0.00
+Social Networking
+Facebook
+40.0
+96.9
+MB
+0.00
+Social Networking
+Pinterest
+5.4.3
+53.5
+MB
+0.00
+Social Networking
+Twitter
+6.38.1
+64.6
+MB
+0.00
+Social Networking
+WhatsApp Messenger
+2.12.7
+52.1
+MB
+0.00
+Sports
+IronMobile - Ironman Athlete Tracker
+3.7
+4.2
+MB
+0.99
+Sports
+College Football Radio & Live Scores!
+1.7
+13.5
+MB
+0.99
+Sports
+SkyDroid - Golf GPS
+1.9.1
+1.2
+MB
+1.99
+Sports
+Finished Results Live
+1.1
+2.4
+MB
+0.99
+Sports
+WatchESPN
+1.9.2
+16.9
+MB
+0.00
+Sports
+ESPN
+4.5
+33.5
+MB
+0.00
+Sports
+DailyMVP: Daily Fantasy Sports
+1.6.9
+45.8
+MB
+0.00
+Sports
+FanDuel: One Day Fantasy Sports Leagues
+1.9.1
+35.4
+MB
+0.00
+Sports
+MLB.com At Bat
+8.6.1
+62.1
+MB
+0.00
+Sports
+Univision Deportes
+4.0
+40
+MB
+0.00
+Sports
+BTN2Go
+5.0
+45.8
+MB
+0.00
+Sports
+FOX Sports GO
+2.3.4
+26.7
+MB
+0.00
+Travel
+City Maps 2Go Pro
+8.3
+46.8
+MB
+4.99
+Travel
+Uber
+2.98.7
+59.1
+MB
+0.00
+Travel
+Yelp
+10.3.0
+51.5
+MB
+0.00
+Utilities
+Swype
+1.6
+31.1
+MB
+0.99
+Utilities
+Crystal
+1.1
+3
+MB
+0.99
+Utilities
+Geekbench 3
+3.4.0
+12.5
+MB
+0.99
+Utilities
+Google
+9.0
+79.7
+MB
+0.00
+Utilities
+Wake Alarm Clock
+3.2
+76.1
+MB
+0.00
+Utilities
+Chrome
+45.0.2454.89
+71.5
+MB
+0.00
+Utilities
+myAT&T
+4.6
+20.9
+MB
+0.00
+Utilities
+QR Reader for iPhone
+5.3
+3.7
+MB
+0.00
+Utilities
+My Verizon Mobile
+4.6.2
+30.7
+MB
+0.00
+Utilities
+Flashlight
+2.0.1
+16.1
+MB
+0.00
+Utilities
+GIF Keyboard
+2.2
+20.4
+MB
+0.00
+Weather
+NOAA Radar Pro
+3.7
+74
+MB
+1.99
+Weather
+Weather Live
+4.6
+79
+MB
+1.99
+Weather
+The Weather Channel
+6.12
+78.5
+MB
+0.00
+Weather
+AccuWeather
+8.5.4
+60.3
+MB
+0.00
+17
+find app Paprika Recipe Manager
+find app WatchESPN
+find app YouTube Kids
+find app AccuWeather
+find app Weather Live
+find app Facebook
+find category Lifestyle
+find category Magazines & Newspapers
+find category Games
+find category Productivity
+find price free
+range News price 4.99 19.99
+range News price 19.99 49.99
+range Reference app Wa Wz
+range Reference app A G
+find app Rainbow Loom Pro
+find app TED Books

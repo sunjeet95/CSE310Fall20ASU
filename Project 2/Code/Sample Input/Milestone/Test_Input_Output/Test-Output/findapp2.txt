@@ -1,0 +1,45 @@
+Application Accuweather not found.
+
+Found Application: Jubitron the Girl Robot
+	Category: Books
+	Application Name: Jubitron the Girl Robot
+	Version: 2.08
+	Size: 110.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Chrome
+	Category: Utilities
+	Application Name: Chrome
+	Version: 45.0.2454.89
+	Size: 71.5
+	Units: MB
+	Price: $0.00
+
+Found Application: FanDuel: One Day Fantasy Sports Leagues
+	Category: Sports
+	Application Name: FanDuel: One Day Fantasy Sports Leagues
+	Version: 1.9.1
+	Size: 35.4
+	Units: MB
+	Price: $0.00
+
+Application WatchMTV not found.
+
+Found Application: Dropbox
+	Category: Productivity
+	Application Name: Dropbox
+	Version: 4.0.3
+	Size: 61.7
+	Units: MB
+	Price: $0.00
+
+Found Application: Sleep Cycle Alarm Clock
+	Category: Health & Fitness
+	Application Name: Sleep Cycle Alarm Clock
+	Version: 4.8.1
+	Size: 41.6
+	Units: MB
+	Price: $0.99
+
+Application Ultimate Guitar not found.

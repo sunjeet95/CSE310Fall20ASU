@@ -1,0 +1,31 @@
+Found Application: NOAA Radar Pro
+	Category: Weather
+	Application Name: NOAA Radar Pro
+	Version: 3.7
+	Size: 74.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Weather Live
+	Category: Weather
+	Application Name: Weather Live
+	Version: 4.6
+	Size: 79.0
+	Units: MB
+	Price: $1.99
+
+Found Application: AccuWeather
+	Category: Weather
+	Application Name: AccuWeather
+	Version: 8.5.4
+	Size: 60.3
+	Units: MB
+	Price: $0.00
+
+Found Application: The Weather Channel
+	Category: Weather
+	Application Name: The Weather Channel
+	Version: 6.12
+	Size: 78.5
+	Units: MB
+	Price: $0.00

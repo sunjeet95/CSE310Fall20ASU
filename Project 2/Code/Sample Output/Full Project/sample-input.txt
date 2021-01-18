@@ -1,0 +1,26 @@
+Found Application: Candy Crush Soda Saga
+	Category: Games
+	Application Name: Candy Crush Soda Saga
+	Version: 1.50.8
+	Size: 61.3
+	Units: MB
+	Price: $0.00
+
+Category Medical no apps found.
+
+find price free was called
+
+Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+	Minecraft: Pocket Edition
+
+Found Application: Minecraft: Pocket Edition
+	Category: Games
+	Application Name: Minecraft: Pocket Edition
+	Version: 0.12.1
+	Size: 24.1
+	Units: MB
+	Price: $6.99
+

@@ -1,0 +1,69 @@
+Found Application: NOAA Radar Pro
+	Category: Weather
+	Application Name: NOAA Radar Pro
+	Version: 3.7
+	Size: 74.0
+	Units: MB
+	Price: $1.99
+
+Application Crystal not found.
+
+Application WolframAlpha not found.
+
+Application Tollsmart not found.
+
+Application Starbucks not found.
+
+Application Uber not found.
+
+Application The Walking Dead: No Man's Land not found.
+
+Application Tinder not found.
+
+Application ClassDojo not found.
+
+Application Sky Whale not found.
+
+Application Politico not found.
+
+Application 7 Minute Workout Challenge not found.
+
+Application National Geographic Magazine not found.
+
+Application Skeletal Anatomy 3D not found.
+
+Application Snap Upload for snapchat not found.
+
+Found Application: WatchESPN
+	Category: Sports
+	Application Name: WatchESPN
+	Version: 1.9.2
+	Size: 16.9
+	Units: MB
+	Price: $0.00
+
+Application iTrans NYC Subway not found.
+
+Application Superimpose not found.
+
+Application TeamSpeak 3 not found.
+
+Application Shazam - Discover music, artists, videos & lyrics not found.
+
+Found Application: Weather Live
+	Category: Weather
+	Application Name: Weather Live
+	Version: 4.6
+	Size: 79.0
+	Units: MB
+	Price: $1.99
+
+Application AccuWhether not found.
+
+Found Application: MLB.com At Bat
+	Category: Sports
+	Application Name: MLB.com At Bat
+	Version: 8.6.1
+	Size: 62.1
+	Units: MB
+	Price: $0.00

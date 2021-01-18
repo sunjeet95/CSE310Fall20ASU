@@ -1,0 +1,811 @@
+Report was called
+-------Height of the Binary Tree---------
+Category: Books
+Number of Nodes: 8
+Height of the Binary Tree: 5
+Height of the Left Sub Tree: 3
+Height of the Right Sub Tree: 1
+
+Category: Business
+Number of Nodes: 11
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 1
+Height of the Right Sub Tree: 5
+
+Category: Catalogs
+Number of Nodes: 7
+Height of the Binary Tree: 5
+Height of the Left Sub Tree: 4
+Height of the Right Sub Tree: 0
+
+Category: Education
+Number of Nodes: 9
+Height of the Binary Tree: 6
+Height of the Left Sub Tree: 2
+Height of the Right Sub Tree: 3
+
+Category: Entertainment
+Number of Nodes: 13
+Height of the Binary Tree: 9
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 8
+
+Category: Finance
+Number of Nodes: 7
+Height of the Binary Tree: 4
+Height of the Left Sub Tree: 2
+Height of the Right Sub Tree: 1
+
+Category: Food & Drink
+Number of Nodes: 12
+Height of the Binary Tree: 8
+Height of the Left Sub Tree: 2
+Height of the Right Sub Tree: 5
+
+Category: Games
+Number of Nodes: 20
+Height of the Binary Tree: 13
+Height of the Left Sub Tree: 6
+Height of the Right Sub Tree: 6
+
+Category: Health & Fitness
+Number of Nodes: 10
+Height of the Binary Tree: 6
+Height of the Left Sub Tree: 3
+Height of the Right Sub Tree: 2
+
+Category: India
+Number of Nodes: 0
+Height of the Binary Tree: 0
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 0
+
+Category: Kids
+Number of Nodes: 7
+Height of the Binary Tree: 4
+Height of the Left Sub Tree: 3
+Height of the Right Sub Tree: 0
+
+Category: Lifestyle
+Number of Nodes: 7
+Height of the Binary Tree: 4
+Height of the Left Sub Tree: 1
+Height of the Right Sub Tree: 2
+
+Category: Magazines & Newspapers
+Number of Nodes: 6
+Height of the Binary Tree: 4
+Height of the Left Sub Tree: 3
+Height of the Right Sub Tree: 0
+
+Category: Medical
+Number of Nodes: 7
+Height of the Binary Tree: 5
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 4
+
+Category: Music
+Number of Nodes: 11
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 6
+Height of the Right Sub Tree: 0
+
+Category: Navigation
+Number of Nodes: 11
+Height of the Binary Tree: 6
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 5
+
+Category: News
+Number of Nodes: 10
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 1
+Height of the Right Sub Tree: 5
+
+Category: Photo & Video
+Number of Nodes: 7
+Height of the Binary Tree: 4
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 3
+
+Category: Productivity
+Number of Nodes: 11
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 4
+Height of the Right Sub Tree: 2
+
+Category: Reference
+Number of Nodes: 5
+Height of the Binary Tree: 3
+Height of the Left Sub Tree: 1
+Height of the Right Sub Tree: 1
+
+Category: Social Networking
+Number of Nodes: 8
+Height of the Binary Tree: 5
+Height of the Left Sub Tree: 3
+Height of the Right Sub Tree: 1
+
+Category: Sports
+Number of Nodes: 12
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 4
+Height of the Right Sub Tree: 2
+
+Category: Travel
+Number of Nodes: 3
+Height of the Binary Tree: 2
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 1
+
+Category: Utilities
+Number of Nodes: 11
+Height of the Binary Tree: 7
+Height of the Left Sub Tree: 5
+Height of the Right Sub Tree: 1
+
+Category: Weather
+Number of Nodes: 4
+Height of the Binary Tree: 2
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 1
+
+---------Chain Length and Load Factor------------
+Number of Chains of length 0 :265
+Number of Chains of length 1 :135
+Number of Chains of length 2 :36
+Number of Chains of length 3 :2
+Number of Chains of length 4 :1
+Load Factor: 0.494305
+-----------Time Comparision in search for Binary Search and Hash Table------------
+Dunkin' Donuts found in HASHTABLE in time: 0.499
+Dunkin' Donuts found in BINARY TREE in time: 1.333
+
+The Weather Channel found in HASHTABLE in time: 0.343
+The Weather Channel found in BINARY TREE in time: 0.849
+
+Fantastical 2 for iPhone found in HASHTABLE in time: 0.271
+Fantastical 2 for iPhone found in BINARY TREE in time: 1.085
+
+ClassDojo found in HASHTABLE in time: 0.182
+ClassDojo found in BINARY TREE in time: 0.643
+
+BTN2Go found in HASHTABLE in time: 0.152
+BTN2Go found in BINARY TREE in time: 1.012
+
+WhatsApp Messenger found in HASHTABLE in time: 0.313
+WhatsApp Messenger found in BINARY TREE in time: 0.83
+
+Essential Anatomy 5 found in HASHTABLE in time: 0.248
+Essential Anatomy 5 found in BINARY TREE in time: 0.772
+
+Gmail - email from Google found in HASHTABLE in time: 0.365
+Gmail - email from Google found in BINARY TREE in time: 0.794
+
+Bank of America found in HASHTABLE in time: 0.223
+Bank of America found in BINARY TREE in time: 0.496
+
+QR Reader for iPhone found in HASHTABLE in time: 0.238
+QR Reader for iPhone found in BINARY TREE in time: 0.769
+
+PhotoMath found in HASHTABLE in time: 0.21
+PhotoMath found in BINARY TREE in time: 0.461
+
+FanDuel: One Day Fantasy Sports Leagues found in HASHTABLE in time: 0.409
+FanDuel: One Day Fantasy Sports Leagues found in BINARY TREE in time: 0.749
+
+iCatcher! Podcast Player found in HASHTABLE in time: 0.27
+iCatcher! Podcast Player found in BINARY TREE in time: 0.774
+
+Star Walk 2 found in HASHTABLE in time: 0.165
+Star Walk 2 found in BINARY TREE in time: 0.398
+
+Elmo Calls found in HASHTABLE in time: 0.215
+Elmo Calls found in BINARY TREE in time: 0.614
+
+McDonald's found in HASHTABLE in time: 0.248
+McDonald's found in BINARY TREE in time: 0.709
+
+Pocket God found in HASHTABLE in time: 0.168
+Pocket God found in BINARY TREE in time: 0.859
+
+SoundCloud - Music & Audio found in HASHTABLE in time: 0.346
+SoundCloud - Music & Audio found in BINARY TREE in time: 0.832
+
+Yahoo Mail found in HASHTABLE in time: 0.145
+Yahoo Mail found in BINARY TREE in time: 0.682
+
+HBO NOW found in HASHTABLE in time: 0.145
+HBO NOW found in BINARY TREE in time: 0.689
+
+Police Scanner+ Free found in HASHTABLE in time: 0.258
+Police Scanner+ Free found in BINARY TREE in time: 0.762
+
+Instagram found in HASHTABLE in time: 0.245
+Instagram found in BINARY TREE in time: 0.544
+
+Messenger found in HASHTABLE in time: 0.155
+Messenger found in BINARY TREE in time: 0.692
+
+Purify Blocker found in HASHTABLE in time: 0.201
+Purify Blocker found in BINARY TREE in time: 0.608
+
+iTunes Connect found in HASHTABLE in time: 0.201
+iTunes Connect found in BINARY TREE in time: 0.714
+
+myAT&T found in HASHTABLE in time: 0.141
+myAT&T found in BINARY TREE in time: 0.669
+
+Starbucks found in HASHTABLE in time: 0.176
+Starbucks found in BINARY TREE in time: 0.574
+
+Jo-Ann found in HASHTABLE in time: 0.136
+Jo-Ann found in BINARY TREE in time: 0.581
+
+Univision Deportes found in HASHTABLE in time: 0.243
+Univision Deportes found in BINARY TREE in time: 0.765
+
+Stylebook found in HASHTABLE in time: 0.25
+Stylebook found in BINARY TREE in time: 0.588
+
+Adobe Acrobat Reader found in HASHTABLE in time: 0.32
+Adobe Acrobat Reader found in BINARY TREE in time: 0.589
+
+Pinterest found in HASHTABLE in time: 0.181
+Pinterest found in BINARY TREE in time: 0.616
+
+Sleep Pillow Sounds found in HASHTABLE in time: 0.283
+Sleep Pillow Sounds found in BINARY TREE in time: 0.591
+
+National Geographic Magazine found in HASHTABLE in time: 0.285
+National Geographic Magazine found in BINARY TREE in time: 0.581
+
+xTube found in HASHTABLE in time: 0.152
+xTube found in BINARY TREE in time: 0.611
+
+Shazam - Discover music, artists, videos & lyrics found in HASHTABLE in time: 0.496
+Shazam - Discover music, artists, videos & lyrics found in BINARY TREE in time: 0.789
+
+Tollsmart found in HASHTABLE in time: 0.185
+Tollsmart found in BINARY TREE in time: 0.501
+
+Plague Inc. found in HASHTABLE in time: 0.188
+Plague Inc. found in BINARY TREE in time: 1.238
+
+MotionX GPC found in HASHTABLE in time: 0.191
+MotionX GPC found in BINARY TREE in time: 0.84
+
+Snap Upload for snapchat found in HASHTABLE in time: 0.253
+Snap Upload for snapchat found in BINARY TREE in time: 0.667
+
+Boating USA found in HASHTABLE in time: 0.166
+Boating USA found in BINARY TREE in time: 0.701
+
+TeamSpeak 3 found in HASHTABLE in time: 0.165
+TeamSpeak 3 found in BINARY TREE in time: 0.576
+
+Geekbench 3 found in HASHTABLE in time: 0.162
+Geekbench 3 found in BINARY TREE in time: 0.634
+
+Swype found in HASHTABLE in time: 0.19
+Swype found in BINARY TREE in time: 0.504
+
+Transit Directions by Moovit found in HASHTABLE in time: 0.311
+Transit Directions by Moovit found in BINARY TREE in time: 0.583
+
+Overcast: Podcast Player found in HASHTABLE in time: 0.253
+Overcast: Podcast Player found in BINARY TREE in time: 0.664
+
+Psych! found in HASHTABLE in time: 0.168
+Psych! found in BINARY TREE in time: 0.856
+
+BillMinder found in HASHTABLE in time: 0.194
+BillMinder found in BINARY TREE in time: 0.549
+
+Toca Hair Salon 2 found in HASHTABLE in time: 0.219
+Toca Hair Salon 2 found in BINARY TREE in time: 0.511
+
+Sago Mini Babies found in HASHTABLE in time: 0.251
+Sago Mini Babies found in BINARY TREE in time: 0.33
+
+Touch Surgery, Surgical Simulator found in HASHTABLE in time: 0.335
+Touch Surgery, Surgical Simulator found in BINARY TREE in time: 0.677
+
+Cosmopolitan Magazine US found in HASHTABLE in time: 0.313
+Cosmopolitan Magazine US found in BINARY TREE in time: 0.537
+
+Geocaching found in HASHTABLE in time: 0.163
+Geocaching found in BINARY TREE in time: 0.542
+
+PAW Patrol Rescue Run found in HASHTABLE in time: 0.346
+PAW Patrol Rescue Run found in BINARY TREE in time: 0.486
+
+Candy Crush Soda Saga found in HASHTABLE in time: 0.228
+Candy Crush Soda Saga found in BINARY TREE in time: 0.944
+
+Wake Alarm Clock found in HASHTABLE in time: 0.221
+Wake Alarm Clock found in BINARY TREE in time: 0.501
+
+Baby Heartbeats found in HASHTABLE in time: 0.185
+Baby Heartbeats found in BINARY TREE in time: 0.491
+
+City Maps 2Go Pro found in HASHTABLE in time: 0.221
+City Maps 2Go Pro found in BINARY TREE in time: 0.539
+
+EWallpaper found in HASHTABLE in time: 0.163
+EWallpaper found in BINARY TREE in time: 0.591
+
+Sonic Dash 2 found in HASHTABLE in time: 0.196
+Sonic Dash 2 found in BINARY TREE in time: 0.661
+
+ThemeLocks found in HASHTABLE in time: 0.143
+ThemeLocks found in BINARY TREE in time: 0.446
+
+YL Oils & Young Living Oils found in HASHTABLE in time: 0.343
+YL Oils & Young Living Oils found in BINARY TREE in time: 0.478
+
+Forbes Magazine found in HASHTABLE in time: 0.208
+Forbes Magazine found in BINARY TREE in time: 0.509
+
+DailyMVP: Daily Fantasy Sports found in HASHTABLE in time: 0.381
+DailyMVP: Daily Fantasy Sports found in BINARY TREE in time: 0.722
+
+PayPal found in HASHTABLE in time: 0.14
+PayPal found in BINARY TREE in time: 0.451
+
+Pandora - Free Music & Radio found in HASHTABLE in time: 0.293
+Pandora - Free Music & Radio found in BINARY TREE in time: 0.639
+
+Flashlight found in HASHTABLE in time: 0.163
+Flashlight found in BINARY TREE in time: 0.654
+
+Google Docs found in HASHTABLE in time: 0.223
+Google Docs found in BINARY TREE in time: 0.506
+
+hocus. found in HASHTABLE in time: 0.138
+hocus. found in BINARY TREE in time: 0.614
+
+Scribblenauts Remix found in HASHTABLE in time: 0.247
+Scribblenauts Remix found in BINARY TREE in time: 0.516
+
+doTERRA found in HASHTABLE in time: 0.157
+doTERRA found in BINARY TREE in time: 0.535
+
+Afterlight found in HASHTABLE in time: 0.181
+Afterlight found in BINARY TREE in time: 0.521
+
+GoodRx found in HASHTABLE in time: 0.181
+GoodRx found in BINARY TREE in time: 0.517
+
+Ultimate Guitar Tabs found in HASHTABLE in time: 0.233
+Ultimate Guitar Tabs found in BINARY TREE in time: 0.581
+
+Google Maps found in HASHTABLE in time: 0.163
+Google Maps found in BINARY TREE in time: 0.674
+
+Fit Men Cook found in HASHTABLE in time: 0.223
+Fit Men Cook found in BINARY TREE in time: 0.724
+
+HomeBudget with Sync found in HASHTABLE in time: 0.222
+HomeBudget with Sync found in BINARY TREE in time: 0.368
+
+Google found in HASHTABLE in time: 0.138
+Google found in BINARY TREE in time: 0.606
+
+Chrome found in HASHTABLE in time: 0.143
+Chrome found in BINARY TREE in time: 0.599
+
+Medium found in HASHTABLE in time: 0.14
+Medium found in BINARY TREE in time: 0.589
+
+The Wonder Weeks found in HASHTABLE in time: 0.229
+The Wonder Weeks found in BINARY TREE in time: 0.559
+
+Fitbit found in HASHTABLE in time: 0.14
+Fitbit found in BINARY TREE in time: 0.487
+
+Project Color by The Home Depot found in HASHTABLE in time: 0.303
+Project Color by The Home Depot found in BINARY TREE in time: 0.464
+
+Tinder found in HASHTABLE in time: 0.145
+Tinder found in BINARY TREE in time: 0.414
+
+Phone Tracker for iPhones found in HASHTABLE in time: 0.233
+Phone Tracker for iPhones found in BINARY TREE in time: 0.702
+
+Square Register found in HASHTABLE in time: 0.184
+Square Register found in BINARY TREE in time: 0.504
+
+Minecraft: Pocket Edition found in HASHTABLE in time: 0.318
+Minecraft: Pocket Edition found in BINARY TREE in time: 0.627
+
+Rainbow Loom Pro found in HASHTABLE in time: 0.255
+Rainbow Loom Pro found in BINARY TREE in time: 0.459
+
+GIF Keyboard found in HASHTABLE in time: 0.215
+GIF Keyboard found in BINARY TREE in time: 0.648
+
+Tiny Scanner Pro found in HASHTABLE in time: 0.215
+Tiny Scanner Pro found in BINARY TREE in time: 0.429
+
+Follow Boss found in HASHTABLE in time: 0.165
+Follow Boss found in BINARY TREE in time: 0.433
+
+djay 2 for iPhone found in HASHTABLE in time: 0.228
+djay 2 for iPhone found in BINARY TREE in time: 0.544
+
+Mixologist found in HASHTABLE in time: 0.158
+Mixologist found in BINARY TREE in time: 0.456
+
+College Football Radio & Live Scores! found in HASHTABLE in time: 0.299
+College Football Radio & Live Scores! found in BINARY TREE in time: 0.744
+
+Stack the States found in HASHTABLE in time: 0.193
+Stack the States found in BINARY TREE in time: 0.366
+
+Printer Pro found in HASHTABLE in time: 0.145
+Printer Pro found in BINARY TREE in time: 0.596
+
+Abby Lee Dance Secrets found in HASHTABLE in time: 0.237
+Abby Lee Dance Secrets found in BINARY TREE in time: 0.661
+
+Sing! Karaoke by Smule found in HASHTABLE in time: 0.326
+Sing! Karaoke by Smule found in BINARY TREE in time: 0.591
+
+Indeed Job Search found in HASHTABLE in time: 0.25
+Indeed Job Search found in BINARY TREE in time: 0.466
+
+PBS KIDS Video found in HASHTABLE in time: 0.231
+PBS KIDS Video found in BINARY TREE in time: 0.597
+
+Balloons TD 5 found in HASHTABLE in time: 0.198
+Balloons TD 5 found in BINARY TREE in time: 0.874
+
+AccuWeather found in HASHTABLE in time: 0.161
+AccuWeather found in BINARY TREE in time: 0.616
+
+FOX Sports GO found in HASHTABLE in time: 0.201
+FOX Sports GO found in BINARY TREE in time: 0.594
+
+Premium Music for Spotify found in HASHTABLE in time: 0.238
+Premium Music for Spotify found in BINARY TREE in time: 0.447
+
+1010! found in HASHTABLE in time: 0.135
+1010! found in BINARY TREE in time: 0.649
+
+CNN App for iPhone found in HASHTABLE in time: 0.23
+CNN App for iPhone found in BINARY TREE in time: 0.676
+
+MLB.com At Bat found in HASHTABLE in time: 0.248
+MLB.com At Bat found in BINARY TREE in time: 0.596
+
+7-Eleven, Inc. found in HASHTABLE in time: 0.178
+7-Eleven, Inc. found in BINARY TREE in time: 0.534
+
+Chase Mobile found in HASHTABLE in time: 0.167
+Chase Mobile found in BINARY TREE in time: 0.483
+
+Monogram it! found in HASHTABLE in time: 0.171
+Monogram it! found in BINARY TREE in time: 0.449
+
+iTrans NYC Subway found in HASHTABLE in time: 0.227
+iTrans NYC Subway found in BINARY TREE in time: 0.539
+
+Reeder 2 found in HASHTABLE in time: 0.15
+Reeder 2 found in BINARY TREE in time: 0.621
+
+NYTimes found in HASHTABLE in time: 0.196
+NYTimes found in BINARY TREE in time: 0.493
+
+7 Minute Workout Challenge found in HASHTABLE in time: 0.235
+7 Minute Workout Challenge found in BINARY TREE in time: 0.581
+
+GrubHub found in HASHTABLE in time: 0.199
+GrubHub found in BINARY TREE in time: 0.461
+
+Plane Finder found in HASHTABLE in time: 0.17
+Plane Finder found in BINARY TREE in time: 0.481
+
+Hype Machine found in HASHTABLE in time: 0.23
+Hype Machine found in BINARY TREE in time: 0.626
+
+MyChart found in HASHTABLE in time: 0.148
+MyChart found in BINARY TREE in time: 0.468
+
+DC Comics: Batman #1 found in HASHTABLE in time: 0.258
+DC Comics: Batman #1 found in BINARY TREE in time: 0.549
+
+SkyDroid - Golf GPS found in HASHTABLE in time: 0.23
+SkyDroid - Golf GPS found in BINARY TREE in time: 0.549
+
+IronMobile - Ironman Athlete Tracker found in HASHTABLE in time: 0.323
+IronMobile - Ironman Athlete Tracker found in BINARY TREE in time: 0.478
+
+Mad Libs found in HASHTABLE in time: 0.153
+Mad Libs found in BINARY TREE in time: 0.434
+
+Google Translate found in HASHTABLE in time: 0.195
+Google Translate found in BINARY TREE in time: 0.423
+
+Ocarina found in HASHTABLE in time: 0.185
+Ocarina found in BINARY TREE in time: 0.524
+
+Dataman Next found in HASHTABLE in time: 0.172
+Dataman Next found in BINARY TREE in time: 0.443
+
+Loopy HD found in HASHTABLE in time: 0.15
+Loopy HD found in BINARY TREE in time: 0.534
+
+Google Drive found in HASHTABLE in time: 0.183
+Google Drive found in BINARY TREE in time: 0.597
+
+YouTube Kids found in HASHTABLE in time: 0.251
+YouTube Kids found in BINARY TREE in time: 0.446
+
+TapeACallPro found in HASHTABLE in time: 0.233
+TapeACallPro found in BINARY TREE in time: 0.386
+
+Google Classroom found in HASHTABLE in time: 0.271
+Google Classroom found in BINARY TREE in time: 0.431
+
+Scanner Pro by Readdle found in HASHTABLE in time: 0.314
+Scanner Pro by Readdle found in BINARY TREE in time: 0.401
+
+NOAA Radar Pro found in HASHTABLE in time: 0.181
+NOAA Radar Pro found in BINARY TREE in time: 0.616
+
+Zombies, Run! found in HASHTABLE in time: 0.175
+Zombies, Run! found in BINARY TREE in time: 0.539
+
+Bowling King found in HASHTABLE in time: 0.221
+Bowling King found in BINARY TREE in time: 0.794
+
+Finished Results Live found in HASHTABLE in time: 0.241
+Finished Results Live found in BINARY TREE in time: 0.544
+
+Weather Live found in HASHTABLE in time: 0.171
+Weather Live found in BINARY TREE in time: 0.477
+
+Domino's Pizza USA found in HASHTABLE in time: 0.274
+Domino's Pizza USA found in BINARY TREE in time: 0.491
+
+YouTube found in HASHTABLE in time: 0.15
+YouTube found in BINARY TREE in time: 0.496
+
+Pocket Casts found in HASHTABLE in time: 0.208
+Pocket Casts found in BINARY TREE in time: 0.586
+
+IntelliDrink PRO - Blood Alcohol Content Calculator found in HASHTABLE in time: 0.383
+IntelliDrink PRO - Blood Alcohol Content Calculator found in BINARY TREE in time: 0.384
+
+iHandy Translator Pro found in HASHTABLE in time: 0.216
+iHandy Translator Pro found in BINARY TREE in time: 0.416
+
+Color Splash found in HASHTABLE in time: 0.203
+Color Splash found in BINARY TREE in time: 0.507
+
+Full Fitness found in HASHTABLE in time: 0.195
+Full Fitness found in BINARY TREE in time: 0.459
+
+Netflix found in HASHTABLE in time: 0.145
+Netflix found in BINARY TREE in time: 0.494
+
+My Verizon Mobile found in HASHTABLE in time: 0.193
+My Verizon Mobile found in BINARY TREE in time: 0.659
+
+Dropbox found in HASHTABLE in time: 0.148
+Dropbox found in BINARY TREE in time: 0.641
+
+Colorfy found in HASHTABLE in time: 0.185
+Colorfy found in BINARY TREE in time: 0.549
+
+Facebook Pages Manager found in HASHTABLE in time: 0.243
+Facebook Pages Manager found in BINARY TREE in time: 0.466
+
+Billionaire. found in HASHTABLE in time: 0.168
+Billionaire. found in BINARY TREE in time: 0.83
+
+Crystal found in HASHTABLE in time: 0.147
+Crystal found in BINARY TREE in time: 0.531
+
+Forks Over Knives found in HASHTABLE in time: 0.192
+Forks Over Knives found in BINARY TREE in time: 0.499
+
+Superimpose found in HASHTABLE in time: 0.239
+Superimpose found in BINARY TREE in time: 0.461
+
+Fox News found in HASHTABLE in time: 0.156
+Fox News found in BINARY TREE in time: 0.511
+
+Heads Up! found in HASHTABLE in time: 0.158
+Heads Up! found in BINARY TREE in time: 0.689
+
+Sherlock: Interative Adventure found in HASHTABLE in time: 0.313
+Sherlock: Interative Adventure found in BINARY TREE in time: 0.564
+
+ESPN found in HASHTABLE in time: 0.178
+ESPN found in BINARY TREE in time: 0.544
+
+iTunes U found in HASHTABLE in time: 0.246
+iTunes U found in BINARY TREE in time: 0.328
+
+Tattoo Fonts found in HASHTABLE in time: 0.236
+Tattoo Fonts found in BINARY TREE in time: 0.481
+
+Twitter found in HASHTABLE in time: 0.148
+Twitter found in BINARY TREE in time: 0.679
+
+Paprika Recipe Manager found in HASHTABLE in time: 0.225
+Paprika Recipe Manager found in BINARY TREE in time: 0.441
+
+Tweetbot 4 for Twitter found in HASHTABLE in time: 0.223
+Tweetbot 4 for Twitter found in BINARY TREE in time: 0.639
+
+Where's my MBTA Bus? found in HASHTABLE in time: 0.233
+Where's my MBTA Bus? found in BINARY TREE in time: 0.493
+
+TED Books found in HASHTABLE in time: 0.155
+TED Books found in BINARY TREE in time: 0.426
+
+Nike+ Running found in HASHTABLE in time: 0.208
+Nike+ Running found in BINARY TREE in time: 0.533
+
+Stride & Prejudice found in HASHTABLE in time: 0.231
+Stride & Prejudice found in BINARY TREE in time: 0.351
+
+Game of Life Classic Edition found in HASHTABLE in time: 0.27
+Game of Life Classic Edition found in BINARY TREE in time: 0.701
+
+WolframAlpha found in HASHTABLE in time: 0.176
+WolframAlpha found in BINARY TREE in time: 0.391
+
+Toca Kitchen 2 found in HASHTABLE in time: 0.178
+Toca Kitchen 2 found in BINARY TREE in time: 0.323
+
+Wish - Shopping Made Fun found in HASHTABLE in time: 0.251
+Wish - Shopping Made Fun found in BINARY TREE in time: 0.381
+
+HotSchedules found in HASHTABLE in time: 0.168
+HotSchedules found in BINARY TREE in time: 0.394
+
+Daily Craigslist Unlimited found in HASHTABLE in time: 0.238
+Daily Craigslist Unlimited found in BINARY TREE in time: 0.481
+
+Facebook found in HASHTABLE in time: 0.153
+Facebook found in BINARY TREE in time: 0.634
+
+BuzzFeed found in HASHTABLE in time: 0.153
+BuzzFeed found in BINARY TREE in time: 0.539
+
+VIP Pool Party found in HASHTABLE in time: 0.178
+VIP Pool Party found in BINARY TREE in time: 0.531
+
+Snagajob found in HASHTABLE in time: 0.151
+Snagajob found in BINARY TREE in time: 0.361
+
+Scout GPS Navigation, ETA, Maps & Traffic found in HASHTABLE in time: 0.316
+Scout GPS Navigation, ETA, Maps & Traffic found in BINARY TREE in time: 0.529
+
+Facetune found in HASHTABLE in time: 0.153
+Facetune found in BINARY TREE in time: 0.413
+
+WatchESPN found in HASHTABLE in time: 0.16
+WatchESPN found in BINARY TREE in time: 0.489
+
+Badoo Premium found in HASHTABLE in time: 0.215
+Badoo Premium found in BINARY TREE in time: 0.522
+
+Sky Guide: View Stars Night or Day found in HASHTABLE in time: 0.383
+Sky Guide: View Stars Night or Day found in BINARY TREE in time: 0.395
+
+Shopkins Magazine found in HASHTABLE in time: 0.349
+Shopkins Magazine found in BINARY TREE in time: 0.454
+
+Hair Color Dye found in HASHTABLE in time: 0.181
+Hair Color Dye found in BINARY TREE in time: 0.454
+
+Snapchat found in HASHTABLE in time: 0.216
+Snapchat found in BINARY TREE in time: 0.396
+
+Akinator the Genie found in HASHTABLE in time: 0.218
+Akinator the Genie found in BINARY TREE in time: 0.611
+
+PAUSE found in HASHTABLE in time: 0.143
+PAUSE found in BINARY TREE in time: 0.491
+
+Geometry Dash found in HASHTABLE in time: 0.24
+Geometry Dash found in BINARY TREE in time: 0.601
+
+Dubsmash found in HASHTABLE in time: 0.148
+Dubsmash found in BINARY TREE in time: 0.483
+
+eBay found in HASHTABLE in time: 0.133
+eBay found in BINARY TREE in time: 0.388
+
+FIFA 16 Ultimate Team found in HASHTABLE in time: 0.213
+FIFA 16 Ultimate Team found in BINARY TREE in time: 0.654
+
+Fitness Buddy found in HASHTABLE in time: 0.193
+Fitness Buddy found in BINARY TREE in time: 0.461
+
+Sleep Cycle alarm clock found in HASHTABLE in time: 0.24
+Sleep Cycle alarm clock found in BINARY TREE in time: 0.444
+
+Need for Speed found in HASHTABLE in time: 0.271
+Need for Speed found in BINARY TREE in time: 0.624
+
+The Wall Street Journal found in HASHTABLE in time: 0.248
+The Wall Street Journal found in BINARY TREE in time: 0.526
+
+Photo Plastic found in HASHTABLE in time: 0.183
+Photo Plastic found in BINARY TREE in time: 0.391
+
+Uber found in HASHTABLE in time: 0.135
+Uber found in BINARY TREE in time: 0.511
+
+Sky Whale found in HASHTABLE in time: 0.208
+Sky Whale found in BINARY TREE in time: 0.454
+
+Vine found in HASHTABLE in time: 0.136
+Vine found in BINARY TREE in time: 0.429
+
+What's On? found in HASHTABLE in time: 0.158
+What's On? found in BINARY TREE in time: 0.366
+
+iDownloads PLUS FREE found in HASHTABLE in time: 0.233
+iDownloads PLUS FREE found in BINARY TREE in time: 0.579
+
+The Walking Dead: No Man's Land found in HASHTABLE in time: 0.306
+The Walking Dead: No Man's Land found in BINARY TREE in time: 0.536
+
+Weird But True found in HASHTABLE in time: 0.178
+Weird But True found in BINARY TREE in time: 0.301
+
+Yelp found in HASHTABLE in time: 0.118
+Yelp found in BINARY TREE in time: 0.419
+
+Microsoft Outlook found in HASHTABLE in time: 0.201
+Microsoft Outlook found in BINARY TREE in time: 0.583
+
+Hulu found in HASHTABLE in time: 0.205
+Hulu found in BINARY TREE in time: 0.487
+
+Skeletal Anatomy 3D found in HASHTABLE in time: 0.233
+Skeletal Anatomy 3D found in BINARY TREE in time: 0.466
+
+Spotify Music found in HASHTABLE in time: 0.21
+Spotify Music found in BINARY TREE in time: 0.669
+
+Emoji 3 PRO found in HASHTABLE in time: 0.206
+Emoji 3 PRO found in BINARY TREE in time: 0.373
+
+PewDiePie found in HASHTABLE in time: 0.153
+PewDiePie found in BINARY TREE in time: 0.672
+
+Poems by Heart found in HASHTABLE in time: 0.219
+Poems by Heart found in BINARY TREE in time: 0.338
+
+Dude, your car! found in HASHTABLE in time: 0.205
+Dude, your car! found in BINARY TREE in time: 0.423
+
+Jubitron the Girl Robot found in HASHTABLE in time: 0.237
+Jubitron the Girl Robot found in BINARY TREE in time: 0.331
+
+Pizza Hut found in HASHTABLE in time: 0.211
+Pizza Hut found in BINARY TREE in time: 0.496
+
+MapQuest: Free Navigation, GPC, Maps & Traffic found in HASHTABLE in time: 0.333
+MapQuest: Free Navigation, GPC, Maps & Traffic found in BINARY TREE in time: 0.684
+
+Toca Life: City found in HASHTABLE in time: 0.215
+Toca Life: City found in BINARY TREE in time: 0.393
+
+Al Gore -- Our Choice: A Plan to Solve the Climate Crisis found in HASHTABLE in time: 0.383
+Al Gore -- Our Choice: A Plan to Solve the Climate Crisis found in BINARY TREE in time: 0.416
+
+MealBoard found in HASHTABLE in time: 0.158
+MealBoard found in BINARY TREE in time: 0.463
+
+Smashy Road: Wanted found in HASHTABLE in time: 0.234
+Smashy Road: Wanted found in BINARY TREE in time: 0.554
+

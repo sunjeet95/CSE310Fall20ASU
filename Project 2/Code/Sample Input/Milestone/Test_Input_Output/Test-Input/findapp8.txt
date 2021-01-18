@@ -1,0 +1,126 @@
+2
+Weather
+Sports
+16
+Weather
+NOAA Radar Pro
+3.7
+74
+MB
+1.99
+Weather
+Weather Live
+4.6
+79
+MB
+1.99
+Weather
+The Weather Channel
+6.12
+78.5
+MB
+0.00
+Weather
+AccuWeather
+8.5.4
+60.3
+MB
+0.00
+Sports
+IronMobile - Ironman Athlete Tracker
+3.7
+4.2
+MB
+0.99
+Sports
+College Football Radio & Live Scores!
+1.7
+13.5
+MB
+0.99
+Sports
+SkyDroid - Golf GPS
+1.9.1
+1.2
+MB
+1.99
+Sports
+Finished Results Live
+1.1
+2.4
+MB
+0.99
+Sports
+WatchESPN
+1.9.2
+16.9
+MB
+0.00
+Sports
+ESPN
+4.5
+33.5
+MB
+0.00
+Sports
+DailyMVP: Daily Fantasy Sports
+1.6.9
+45.8
+MB
+0.00
+Sports
+FanDuel: One Day Fantasy Sports Leagues
+1.9.1
+35.4
+MB
+0.00
+Sports
+MLB.com At Bat
+8.6.1
+62.1
+MB
+0.00
+Sports
+Univision Deportes
+4.0
+40
+MB
+0.00
+Sports
+BTN2Go
+5.0
+45.8
+MB
+0.00
+Sports
+FOX Sports GO
+2.3.4
+26.7
+MB
+0.00
+23
+find app NOAA Radar Pro
+find app Crystal
+find app WolframAlpha
+find app Tollsmart
+find app Starbucks
+find app Uber
+find app The Walking Dead: No Man's Land
+find app Tinder
+find app ClassDojo
+find app Sky Whale
+find app Politico
+find app 7 Minute Workout Challenge
+find app National Geographic Magazine
+find app Skeletal Anatomy 3D
+find app Snap Upload for snapchat
+find app WatchESPN
+find app iTrans NYC Subway
+find app Superimpose
+find app TeamSpeak 3
+find app Shazam - Discover music, artists, videos & lyrics
+find app Weather Live
+find app AccuWhether
+find app MLB.com At Bat
+no report
+

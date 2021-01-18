@@ -1,0 +1,71 @@
+Found Application: Candy Crush Soda Saga
+	Category: Games
+	Application Name: Candy Crush Soda Saga
+	Version: 1.50.8
+	Size: 61.3
+	Units: MB
+	Price: $0.00
+
+Category Medical no apps found.
+
+Category Social Networking no apps found.
+
+Free Applications in Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+
+No free applications found in category Medical.
+
+No free applications found in category Social Networking.
+
+Applications in Range (A,F) in Category: Games
+	Candy Crush Soda Saga
+
+Applications in Price Range ($0.00,$5.00) in Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+
+Application Minecraft: Pocket Edition from Category Games successfully deleted.
+
+Application twitter not found in category Social Networking; unable to delete.
+
+Category: Games
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+
+Application Minecraft: Pocket Edition not found.
+
+Category: Games
+Number of Nodes: 3
+Height of the Binary Tree: 1
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 0
+
+Category: Medical
+Number of Nodes: 0
+Height of the Binary Tree: 0
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 0
+
+Category: Social Networking
+Number of Nodes: 0
+Height of the Binary Tree: 0
+Height of the Left Sub Tree: 0
+Height of the Right Sub Tree: 0
+
+Number of Chains of length 0 :8
+Number of Chains of length 1 :3
+Load Factor: 0.27
+
+
+FIFA 16 Ultimate Team found in HASHTABLE in time: 0.52
+FIFA 16 Ultimate Team found in BINARY TREE in time: 0.51
+
+Game of Life Classic Edition found in HASHTABLE in time: 0.29
+Game of Life Classic Edition found in BINARY TREE in time: 0.33
+
+Candy Crush Soda Saga found in HASHTABLE in time: 0.22
+Candy Crush Soda Saga found in BINARY TREE in time: 0.26
+

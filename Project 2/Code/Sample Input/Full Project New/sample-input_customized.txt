@@ -1,0 +1,47 @@
+3
+Games
+Medical
+Social Networking
+4
+Games
+Minecraft: Pocket Edition
+0.12.1
+24.1 
+MB
+6.99
+Games
+FIFA 16 Ultimate Team
+2.0
+1.25 
+GB
+0.00
+Games
+Candy Crush Soda Saga
+1.50.8
+61.3 
+MB
+0.00
+Games
+Game of Life Classic Edition
+1.2.21
+15.3 
+MB
+0.99
+10
+find app "Candy Crush Soda Saga"
+find category "Medical"
+find category "Social Networking"
+find price free
+range "Games" app "A" "F"
+range "Games" price 0.00 5.00
+find category "Games"
+delete "Games" "Minecraft: Pocket Edition"
+delete "Social Networking" "twitter"
+find category "Games"
+find app "Minecraft: Pocket Edition"
+range "Games" price 3.00 7.00
+range "Games" app "A" "Z"
+range "Games" app "a" "z"
+range "Medical" app "A" "z"
+range "Food & Drink" app "A" "F"
+report

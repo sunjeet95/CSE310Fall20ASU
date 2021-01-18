@@ -1,0 +1,118 @@
+Found Application: Paprika Recipe Manager
+	Category: Food & Drink
+	Application Name: Paprika Recipe Manager
+	Version: 2.1.6
+	Size: 7.1
+	Units: MB
+	Price: $4.99
+
+Found Application: WatchESPN
+	Category: Sports
+	Application Name: WatchESPN
+	Version: 1.9.2
+	Size: 16.9
+	Units: MB
+	Price: $0.00
+
+Found Application: YouTube Kids
+	Category: Kids
+	Application Name: YouTube Kids
+	Version: 1.28.103
+	Size: 61.0
+	Units: MB
+	Price: $0.00
+
+Found Application: AccuWeather
+	Category: Weather
+	Application Name: AccuWeather
+	Version: 8.5.4
+	Size: 60.3
+	Units: MB
+	Price: $0.00
+
+Found Application: Weather Live
+	Category: Weather
+	Application Name: Weather Live
+	Version: 4.6
+	Size: 79.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Facebook
+	Category: Social Networking
+	Application Name: Facebook
+	Version: 40.0
+	Size: 96.9
+	Units: MB
+	Price: $0.00
+
+Category: Lifestyle
+	Monogram it!
+	Project Color by The Home Depot
+	Stylebook
+	Tinder
+	What's On?
+	Wish - Shopping Made Fun
+	eBay
+
+Category: Magazines & Newspapers
+	Cosmopolitan Magazine US
+	Forbes Magazine
+	NYTimes
+	National Geographic Magazine
+	Shopkins Magazine
+	The Wall Street Journal
+
+Category: Games
+	1010!
+	Balloons TD 5
+	Billionaire.
+	Bowling King
+	Candy Crush Soda Saga
+	FIFA 16 Ultimate Team
+	Game of Life Classic Edition
+	Geometry Dash
+	Heads Up!
+	Minecraft: Pocket Edition
+	Need for Speed
+	PewDiePie
+	Plague Inc.
+	Psych!
+	Scribblenauts Remix
+	Smashy Road: Wanted
+	Sonic Dash 2
+	The Walking Dead: No Man's Land
+	VIP Pool Party
+	hocus.
+
+Category: Productivity
+	Dropbox
+	Fantastical 2 for iPhone
+	Gmail - email from Google
+	Google Docs
+	Google Drive
+	Microsoft Outlook
+	Printer Pro
+	Purify Blocker
+	Snap Upload for snapchat
+	Yahoo Mail
+	iDownloads PLUS FREE
+
+find price free was called
+
+Found Application: Rainbow Loom Pro
+	Category: Catalogs
+	Application Name: Rainbow Loom Pro
+	Version: 2.0
+	Size: 49.3
+	Units: MB
+	Price: $0.99
+
+Found Application: TED Books
+	Category: Books
+	Application Name: TED Books
+	Version: 1.15
+	Size: 7.6
+	Units: MB
+	Price: $14.99
+

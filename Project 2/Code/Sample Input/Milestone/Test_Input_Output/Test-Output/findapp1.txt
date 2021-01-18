@@ -1,0 +1,17 @@
+Found Application: Minecraft: Pocket Edition
+	Category: Games
+	Application Name: Minecraft: Pocket Edition
+	Version: 0.12.1
+	Size: 24.1
+	Units: MB
+	Price: $6.99
+
+Application FIFA 18 not found.
+
+Found Application: Game of Life Classic Edition
+	Category: Games
+	Application Name: Game of Life Classic Edition
+	Version: 1.2.21
+	Size: 15.3
+	Units: MB
+	Price: $0.99

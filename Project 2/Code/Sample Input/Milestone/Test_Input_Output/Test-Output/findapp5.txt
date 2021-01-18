@@ -1,0 +1,191 @@
+Application Accuweather not found.
+
+Found Application: Instagram
+	Category: Photo & Video
+	Application Name: Instagram
+	Version: 7.7.2
+	Size: 22.2
+	Units: MB
+	Price: $0.00
+
+Found Application: PhotoMath
+	Category: Education
+	Application Name: PhotoMath
+	Version: 1.3.1
+	Size: 42.9
+	Units: MB
+	Price: $0.00
+
+Application Photomath not found.
+
+Found Application: NYTimes
+	Category: Magazines & Newspapers
+	Application Name: NYTimes
+	Version: 5.3
+	Size: 27.4
+	Units: MB
+	Price: $34.90
+
+Application New York Times not found.
+
+Application Chrome not found.
+
+Application Spruce not found.
+
+Found Application: IntelliDrink PRO - Blood Alcohol Content Calculator
+	Category: Medical
+	Application Name: IntelliDrink PRO - Blood Alcohol Content Calculator
+	Version: 2.1
+	Size: 18.0
+	Units: MB
+	Price: $2.99
+
+Application Blood Alcohol Content Calculator not found.
+
+Found Application: PewDeePie
+	Category: Games
+	Application Name: PewDeePie
+	Version: 1.0.0
+	Size: 84.4
+	Units: MB
+	Price: $4.99
+
+Application PewDiePie not found.
+
+Found Application: Gmail - email from Google
+	Category: Productivity
+	Application Name: Gmail - email from Google
+	Version: 4.1
+	Size: 17.7
+	Units: MB
+	Price: $0.00
+
+Application iDownloads PLUS FREE not found.
+
+Found Application: Google Maps
+	Category: Navigation
+	Application Name: Google Maps
+	Version: 4.11.0
+	Size: 34.2
+	Units: MB
+	Price: $0.00
+
+Application googlemaps not found.
+
+Found Application: Overcast: Podcast Player
+	Category: News
+	Application Name: Overcast: Podcast Player
+	Version: 2.0
+	Size: 4.6
+	Units: MB
+	Price: $0.00
+
+Found Application: College Football Radio & Live Scores!
+	Category: Sports
+	Application Name: College Football Radio & Live Scores!
+	Version: 1.7
+	Size: 13.5
+	Units: MB
+	Price: $0.99
+
+Found Application: Project Color by The Home Depot
+	Category: Lifestyle
+	Application Name: Project Color by The Home Depot
+	Version: 1.1.34
+	Size: 16.6
+	Units: MB
+	Price: $0.00
+
+Application FanDuel: One Day Fantasy Sports Leagues not found.
+
+Application WatchMTV not found.
+
+Found Application: Tweetbot 4 for Twitter
+	Category: Social Networking
+	Application Name: Tweetbot 4 for Twitter
+	Version: 4.0
+	Size: 6.8
+	Units: MB
+	Price: $4.99
+
+Found Application: 7 Minute Workout Challenge
+	Category: Health & Fitness
+	Application Name: 7 Minute Workout Challenge
+	Version: 1.5
+	Size: 79.4
+	Units: MB
+	Price: $2.99
+
+Found Application: Chase Mobile
+	Category: Finance
+	Application Name: Chase Mobile
+	Version: 2.461
+	Size: 20.9
+	Units: MB
+	Price: $0.00
+
+Found Application: NOAA Radar Pro
+	Category: Weather
+	Application Name: NOAA Radar Pro
+	Version: 3.7
+	Size: 74.0
+	Units: MB
+	Price: $1.99
+
+Found Application: Spotify Music
+	Category: Music
+	Application Name: Spotify Music
+	Version: 4.0.0
+	Size: 85.0
+	Units: MB
+	Price: $0.00
+
+Application Spotify not found.
+
+Application Yelp not found.
+
+Application yelper not found.
+
+Found Application: Google
+	Category: Utilities
+	Application Name: Google
+	Version: 9.0
+	Size: 79.7
+	Units: MB
+	Price: $0.00
+
+Found Application: YouTube
+	Category: Photo & Video
+	Application Name: YouTube
+	Version: 10.38
+	Size: 40.7
+	Units: MB
+	Price: $0.00
+
+Application YourTube not found.
+
+Found Application: Sky Guide: View Stars Night or Day
+	Category: Reference
+	Application Name: Sky Guide: View Stars Night or Day
+	Version: 5.0.1
+	Size: 102.0
+	Units: MB
+	Price: $2.99
+
+Application Dropbox not found.
+
+Found Application: Elmo Calls
+	Category: Kids
+	Application Name: Elmo Calls
+	Version: 3.4
+	Size: 78.1
+	Units: MB
+	Price: $1.99
+
+Application Sleep Cycle Alarm Clock not found.
+
+Application Guitar Hero not found.
+
+Application Follow Boss not found.
+
+Application fitness buddy not found.
