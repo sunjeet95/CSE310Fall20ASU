@@ -1,0 +1,5 @@
+Command: find 1 12 0
+Path: 1;11;12
+Command: find 1 12 1
+Length: 5
+Command: stop

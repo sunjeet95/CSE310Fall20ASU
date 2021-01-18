@@ -1,0 +1,5 @@
+Command: find 18 18 1
+Length: 0
+Command: find 18 18 0
+Path: 18
+Command: stop

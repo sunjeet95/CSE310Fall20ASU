@@ -1,0 +1,5 @@
+Command: find 1 2 1
+Error: one or more invalid nodes
+Command: find 1 2 0
+Error: one or more invalid nodes
+Command: stop

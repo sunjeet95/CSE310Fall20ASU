@@ -1,0 +1,5 @@
+Command: find 6 11 1
+Length: 3
+Command: find 6 11 0
+Path: 6;11
+Command: stop

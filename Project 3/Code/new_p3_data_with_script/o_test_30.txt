@@ -1,0 +1,33 @@
+Command: find 1 16 0
+Path: 1;11;12;8;13;18;21;16
+Command: find 1 16 1
+Length: 15
+Command: find 1 17 1
+Error: node 17 not reachable from node 1
+Command: find 1 17 0
+Error: node 17 not reachable from node 1
+Command: find 24 25 0
+Path: 24;13;18;21;22;23;25
+Command: find 25 24 0
+Path: 25;15;14;19;24
+Command: find 24 25 1
+Length: 25
+Command: find 25 24 1
+Length: 6
+Command: find 23 25 1
+Length: 8
+Command: find 23 25 0
+Path: 23;25
+Command: find 25 23 1
+Length: 23
+Command: find 25 23 0
+Path: 25;15;14;19;24;13;18;21;22;23
+Command: find 25 1 1
+Length: 28
+Command: find 25 1 0
+Path: 25;15;14;4;3;1
+Command: find 1 25 1
+Length: 25
+Command: find 1 25 0
+Path: 1;11;12;8;13;18;21;22;23;25
+Command: stop

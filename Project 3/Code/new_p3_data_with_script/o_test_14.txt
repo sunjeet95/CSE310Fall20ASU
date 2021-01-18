@@ -1,0 +1,5 @@
+Command: find 17 17 0
+Path: 17
+Command: find 17 17 1
+Length: 0
+Command: stop

@@ -1,0 +1,5 @@
+Command: find 1 2 2
+Error: invalid flag value
+Command: find 1 2 -1
+Error: invalid flag value
+Command: stop

@@ -1,0 +1,4 @@
+0 0
+find 1 2 1
+find 1 2 0
+stop

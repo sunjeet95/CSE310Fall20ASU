@@ -1,0 +1,5 @@
+Command: find 23 23 1
+Length: 0
+Command: find 23 23 0
+Path: 23
+Command: stop

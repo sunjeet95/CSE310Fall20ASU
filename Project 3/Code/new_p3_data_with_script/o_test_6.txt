@@ -1,0 +1,13 @@
+Command: find 100 200 300
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 25 26 1
+Error: one or more invalid nodes
+Command: find 26 27 1
+Error: one or more invalid nodes
+Command: find 26 27 28
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 1 25 -1
+Error: invalid flag value
+Command: stop

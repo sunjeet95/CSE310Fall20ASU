@@ -1,0 +1,9 @@
+Command: find 25 14 0
+Path: 25;15;14
+Command: find 25 14 1
+Length: 4
+Command: find 14 25 1
+Length: 27
+Command: find 14 25 0
+Path: 14;19;24;13;18;21;22;23;25
+Command: stop

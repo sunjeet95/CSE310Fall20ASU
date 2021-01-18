@@ -1,0 +1,3 @@
+Command: write
+0 0
+Command: stop

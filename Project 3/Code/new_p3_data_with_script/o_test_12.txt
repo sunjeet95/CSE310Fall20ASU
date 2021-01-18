@@ -1,0 +1,5 @@
+Command: find 9 9 0
+Path: 9
+Command: find 9 9 1
+Length: 0
+Command: stop

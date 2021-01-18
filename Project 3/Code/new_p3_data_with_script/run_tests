@@ -1,0 +1,80 @@
+#!/bin/bash
+
+# run "chmod u+x run_tests" on this file to be able to run it
+# Execute using "./run_tests &> run_tests_output.txt"
+
+TEST_ERROR=0
+system_output=0
+
+function run_test {
+	echo "--- Start $1 ---"
+	timeout 60 ./dijkstra < $2 > $3
+	system_output=$(echo $?)
+		
+	if [ $system_output -eq 0 ]
+	then
+		echo "$1 completed"
+		echo "Comparing generated output with expected output"
+		
+		cmp $3 $4
+		if [ $? -eq 0 ]
+		then
+			echo "Files are identical"
+		else
+			echo "The above line is the first mismatch found."
+		fi
+	elif [ $system_output -eq 139 ]
+	then
+		echo "$1 had a segmentation fault"
+		TEST_ERROR=4   
+		#The error code for this is 139
+	else
+		echo "$1 went over a minute"
+		TEST_ERROR=2
+		#The error code is 124
+	fi
+}
+
+# Build project: -B forces everything to be rebuilt
+make -B
+
+if [ $? -ne 0 ]
+then
+	echo "Build failed for program"
+	TEST_ERROR=1
+else
+	echo "Build succeeded"
+	
+	echo "--- Run tests ---"
+	run_test "Test1" test_1.txt g_test1.txt o_test_1.txt
+	run_test "Test2" test_2.txt g_test2.txt o_test_2.txt
+	run_test "Test3" test_3.txt g_test3.txt o_test_3.txt
+	run_test "Test4" test_4.txt g_test4.txt o_test_4.txt
+	run_test "Test5" test_5.txt g_test5.txt o_test_5.txt
+	run_test "Test6" test_6.txt g_test6.txt o_test_6.txt
+	run_test "Test7" test_7.txt g_test7.txt o_test_7.txt
+	run_test "Test8" test_8.txt g_test8.txt o_test_8.txt
+	run_test "Test9" test_9.txt g_test9.txt o_test_9.txt
+	run_test "Test10" test_10.txt g_test10.txt o_test_10.txt
+	run_test "Test11" test_11.txt g_test11.txt o_test_11.txt
+	run_test "Test12" test_12.txt g_test12.txt o_test_12.txt
+	run_test "Test13" test_13.txt g_test13.txt o_test_13.txt
+	run_test "Test14" test_14.txt g_test14.txt o_test_14.txt
+	run_test "Test15" test_15.txt g_test15.txt o_test_15.txt
+	run_test "Test16" test_16.txt g_test16.txt o_test_16.txt
+	run_test "Test17" test_17.txt g_test17.txt o_test_17.txt
+	run_test "Test18" test_18.txt g_test18.txt o_test_18.txt
+	run_test "Test19" test_19.txt g_test19.txt o_test_19.txt
+	run_test "Test20" test_20.txt g_test20.txt o_test_20.txt
+	run_test "Test21" test_21.txt g_test21.txt o_test_21.txt
+	run_test "Test22" test_22.txt g_test22.txt o_test_22.txt
+	run_test "Test23" test_23.txt g_test23.txt o_test_23.txt
+	run_test "Test24" test_24.txt g_test24.txt o_test_24.txt
+	run_test "Test25" test_25.txt g_test25.txt o_test_25.txt
+	run_test "Test26" test_26.txt g_test26.txt o_test_26.txt
+	run_test "Test27" test_27.txt g_test27.txt o_test_27.txt
+	run_test "Test28" test_28.txt g_test28.txt o_test_28.txt
+	run_test "Test29" test_29.txt g_test29.txt o_test_29.txt
+	run_test "Test30" test_30.txt g_test30.txt o_test_30.txt
+	rm g_test*.txt
+fi

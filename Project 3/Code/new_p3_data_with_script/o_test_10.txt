@@ -1,0 +1,39 @@
+Command: find 0 25 1
+Error: one or more invalid nodes
+Command: find 0 25 100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 1 26 1
+Error: one or more invalid nodes
+Command: find 1 26 100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 0 1 1
+Error: one or more invalid nodes
+Command: find 0 1 0
+Error: one or more invalid nodes
+Command: find 1 0 -100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 1 0 100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 0 24 1
+Error: one or more invalid nodes
+Command: find 0 24 0
+Error: one or more invalid nodes
+Command: find 24 0 1
+Error: one or more invalid nodes
+Command: find 24 0 0
+Error: one or more invalid nodes
+Command: find 0 25 100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 0 25 -100
+Error: one or more invalid nodes
+Error: invalid flag value
+Command: find 1 26 1
+Error: one or more invalid nodes
+Command: find 1 26 0
+Error: one or more invalid nodes
+Command: stop

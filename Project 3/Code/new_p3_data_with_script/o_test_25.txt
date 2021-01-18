@@ -1,0 +1,9 @@
+Command: find 25 17 1
+Error: node 17 not reachable from node 25
+Command: find 25 17 0
+Error: node 17 not reachable from node 25
+Command: find 17 25 1
+Length: 40
+Command: find 17 25 0
+Path: 17;16;12;8;13;18;21;22;23;25
+Command: stop

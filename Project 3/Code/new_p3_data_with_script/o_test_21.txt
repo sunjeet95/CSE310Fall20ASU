@@ -1,0 +1,9 @@
+Command: find 10 15 1
+Length: 6
+Command: find 10 15 0
+Path: 10;15
+Command: find 15 10 0
+Path: 15;10
+Command: find 15 10 1
+Length: 8
+Command: stop
