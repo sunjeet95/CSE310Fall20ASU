@@ -1,0 +1,4 @@
+In this project we implemented a variable-length encoding and decoding scheme, and ran experiments 
+to evaluate the effectiveness of the scheme, and the efficiency of the algorithms.
+
+CODE folder contains the entire code repository and REPORT folder contains the results of the experiments.
